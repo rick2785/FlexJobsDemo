@@ -13,6 +13,24 @@
 		09CEB211243272F800D77E1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09CEB210243272F800D77E1A /* Assets.xcassets */; };
 		09CEB214243272F800D77E1A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09CEB213243272F800D77E1A /* Preview Assets.xcassets */; };
 		09CEB217243272F800D77E1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09CEB215243272F800D77E1A /* LaunchScreen.storyboard */; };
+		09CEB221243273B500D77E1A /* OnboardingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB220243273B500D77E1A /* OnboardingCard.swift */; };
+		09CEB223243273DF00D77E1A /* OnboardingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB222243273DF00D77E1A /* OnboardingCardView.swift */; };
+		09CEB225243273F000D77E1A /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB224243273F000D77E1A /* PageViewController.swift */; };
+		09CEB2272432740000D77E1A /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB2262432740000D77E1A /* PageView.swift */; };
+		09CEB2292432740F00D77E1A /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB2282432740F00D77E1A /* PageControl.swift */; };
+		09CEB22B2432741F00D77E1A /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB22A2432741F00D77E1A /* LoginView.swift */; };
+		09CEB22F24327E6200D77E1A /* AuthVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB22E24327E6200D77E1A /* AuthVM.swift */; };
+		09CEB23124327E9900D77E1A /* MainBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23024327E9900D77E1A /* MainBackground.swift */; };
+		09CEB23324327EB000D77E1A /* FormBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23224327EB000D77E1A /* FormBackground.swift */; };
+		09CEB23524327ECA00D77E1A /* LoginForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23424327ECA00D77E1A /* LoginForm.swift */; };
+		09CEB23724327EF000D77E1A /* Input.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23624327EF000D77E1A /* Input.swift */; };
+		09CEB23924327F0800D77E1A /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23824327F0800D77E1A /* CustomButton.swift */; };
+		09CEB23B24327F2100D77E1A /* Separator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23A24327F2100D77E1A /* Separator.swift */; };
+		09CEB23D24327F7200D77E1A /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23C24327F7200D77E1A /* MainView.swift */; };
+		09CEB2402432889F00D77E1A /* JobsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB23F2432889F00D77E1A /* JobsView.swift */; };
+		09CEB2422432894600D77E1A /* JobRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB2412432894600D77E1A /* JobRow.swift */; };
+		09CEB244243289E000D77E1A /* JobDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB243243289E000D77E1A /* JobDetailsView.swift */; };
+		09CEB2462432DBF300D77E1A /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CEB2452432DBF300D77E1A /* Job.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +42,24 @@
 		09CEB213243272F800D77E1A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		09CEB216243272F800D77E1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09CEB218243272F800D77E1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09CEB220243273B500D77E1A /* OnboardingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCard.swift; sourceTree = "<group>"; };
+		09CEB222243273DF00D77E1A /* OnboardingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCardView.swift; sourceTree = "<group>"; };
+		09CEB224243273F000D77E1A /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		09CEB2262432740000D77E1A /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		09CEB2282432740F00D77E1A /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
+		09CEB22A2432741F00D77E1A /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		09CEB22E24327E6200D77E1A /* AuthVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthVM.swift; sourceTree = "<group>"; };
+		09CEB23024327E9900D77E1A /* MainBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainBackground.swift; sourceTree = "<group>"; };
+		09CEB23224327EB000D77E1A /* FormBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormBackground.swift; sourceTree = "<group>"; };
+		09CEB23424327ECA00D77E1A /* LoginForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginForm.swift; sourceTree = "<group>"; };
+		09CEB23624327EF000D77E1A /* Input.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Input.swift; sourceTree = "<group>"; };
+		09CEB23824327F0800D77E1A /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		09CEB23A24327F2100D77E1A /* Separator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Separator.swift; sourceTree = "<group>"; };
+		09CEB23C24327F7200D77E1A /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		09CEB23F2432889F00D77E1A /* JobsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobsView.swift; sourceTree = "<group>"; };
+		09CEB2412432894600D77E1A /* JobRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobRow.swift; sourceTree = "<group>"; };
+		09CEB243243289E000D77E1A /* JobDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobDetailsView.swift; sourceTree = "<group>"; };
+		09CEB2452432DBF300D77E1A /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +92,8 @@
 		09CEB209243272F800D77E1A /* FlexJobsDemo */ = {
 			isa = PBXGroup;
 			children = (
+				09CEB21F2432738A00D77E1A /* ViewModels */,
+				09CEB21E2432737D00D77E1A /* Views */,
 				09CEB20A243272F800D77E1A /* AppDelegate.swift */,
 				09CEB20C243272F800D77E1A /* SceneDelegate.swift */,
 				09CEB20E243272F800D77E1A /* ContentView.swift */,
@@ -73,6 +111,62 @@
 				09CEB213243272F800D77E1A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		09CEB21E2432737D00D77E1A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				09CEB23E2432889300D77E1A /* Main */,
+				09CEB22D24327DA300D77E1A /* Login */,
+				09CEB22C24327D8300D77E1A /* Onboarding */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		09CEB21F2432738A00D77E1A /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				09CEB220243273B500D77E1A /* OnboardingCard.swift */,
+				09CEB22E24327E6200D77E1A /* AuthVM.swift */,
+				09CEB2452432DBF300D77E1A /* Job.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		09CEB22C24327D8300D77E1A /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				09CEB222243273DF00D77E1A /* OnboardingCardView.swift */,
+				09CEB224243273F000D77E1A /* PageViewController.swift */,
+				09CEB2262432740000D77E1A /* PageView.swift */,
+				09CEB2282432740F00D77E1A /* PageControl.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		09CEB22D24327DA300D77E1A /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				09CEB23024327E9900D77E1A /* MainBackground.swift */,
+				09CEB23224327EB000D77E1A /* FormBackground.swift */,
+				09CEB23424327ECA00D77E1A /* LoginForm.swift */,
+				09CEB23624327EF000D77E1A /* Input.swift */,
+				09CEB23824327F0800D77E1A /* CustomButton.swift */,
+				09CEB23A24327F2100D77E1A /* Separator.swift */,
+				09CEB22A2432741F00D77E1A /* LoginView.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		09CEB23E2432889300D77E1A /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				09CEB23F2432889F00D77E1A /* JobsView.swift */,
+				09CEB2412432894600D77E1A /* JobRow.swift */,
+				09CEB243243289E000D77E1A /* JobDetailsView.swift */,
+				09CEB23C24327F7200D77E1A /* MainView.swift */,
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -146,9 +240,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09CEB23724327EF000D77E1A /* Input.swift in Sources */,
+				09CEB22F24327E6200D77E1A /* AuthVM.swift in Sources */,
+				09CEB223243273DF00D77E1A /* OnboardingCardView.swift in Sources */,
+				09CEB221243273B500D77E1A /* OnboardingCard.swift in Sources */,
+				09CEB2292432740F00D77E1A /* PageControl.swift in Sources */,
+				09CEB2422432894600D77E1A /* JobRow.swift in Sources */,
+				09CEB23124327E9900D77E1A /* MainBackground.swift in Sources */,
+				09CEB244243289E000D77E1A /* JobDetailsView.swift in Sources */,
+				09CEB22B2432741F00D77E1A /* LoginView.swift in Sources */,
 				09CEB20B243272F800D77E1A /* AppDelegate.swift in Sources */,
+				09CEB2402432889F00D77E1A /* JobsView.swift in Sources */,
+				09CEB23324327EB000D77E1A /* FormBackground.swift in Sources */,
+				09CEB23524327ECA00D77E1A /* LoginForm.swift in Sources */,
+				09CEB225243273F000D77E1A /* PageViewController.swift in Sources */,
+				09CEB23D24327F7200D77E1A /* MainView.swift in Sources */,
+				09CEB23B24327F2100D77E1A /* Separator.swift in Sources */,
 				09CEB20D243272F800D77E1A /* SceneDelegate.swift in Sources */,
 				09CEB20F243272F800D77E1A /* ContentView.swift in Sources */,
+				09CEB2272432740000D77E1A /* PageView.swift in Sources */,
+				09CEB2462432DBF300D77E1A /* Job.swift in Sources */,
+				09CEB23924327F0800D77E1A /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
